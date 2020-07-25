@@ -1,13 +1,13 @@
 ![freeCodeCamp.org Social Banner](https://s3.amazonaws.com/freecodecamp/wide-social-banner.png)
 
-[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 [![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](http://www.firsttimersonly.com/)
 [![Open Source Helpers](https://www.codetriage.com/freecodecamp/freecodecamp/badges/users.svg)](https://www.codetriage.com/freecodecamp/freecodecamp)
 [![Setup Automated](https://img.shields.io/badge/setup-automated-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 
 ## freeCodeCamp.org's open-source codebase and curriculum
 
-[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://donate.freecodecamp.org) to help millions of busy adults transition into tech. Our community has already helped more than 10,000 people get their first developer job.
+[freeCodeCamp.org](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) nonprofit](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) to help millions of busy adults transition into tech. Our community has already helped more than 10,000 people get their first developer job.
 
 Our full-stack web development curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
@@ -27,11 +27,11 @@ freeCodeCamp.org offers several free developer certifications. Each of these cer
 
 Each of these 30 projects in the freeCodeCamp.org curriculum has its own agile user stories and automated tests. These help you build up your project incrementally and ensure you've fulfilled all the user stories before you submit it.
 
-You can pull in these test suites through [freeCodeCamp's CDN](https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js). This means you can build these projects on websites like CodePen and Glitch - or even on your local computer's development environment.
+You can pull in these test suites through [freeCodeCamp's CDN](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova). This means you can build these projects on websites like CodePen and Glitch - or even on your local computer's development environment.
 
 Once you’ve earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or résumé. And when your prospective employers or freelance clients click that link, they’ll see a verified certification specific to you.
 
-The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/academic-honesty). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
+The one exception to this is if we discover violations of our [Academic Honesty Policy](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
 
 Here are our six core certifications:
 
@@ -40,24 +40,24 @@ Here are our six core certifications:
 - [Basic HTML and HTML5](https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5)
 - [Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 - [Applied Visual Design](https://learn.freecodecamp.org/responsive-web-design/applied-visual-design)
-- [Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility)
+- [Applied Accessibility](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 - [Responsive Web Design Principles](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-principles)
 - [CSS Flexbox](https://learn.freecodecamp.org/responsive-web-design/css-flexbox)
-- [CSS Grid](https://learn.freecodecamp.org/responsive-web-design/css-grid)
+- [CSS Grid](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
   <br />
   <br />
   **Projects**: Tribute Page, Survey Form, Product Landing Page, Technical Documentation Page, Personal Portfolio Webpage
 
 #### 2. JavaScript Algorithms and Data Structures Certification
 
-- [Basic JavaScript](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-javascript)
+- [Basic JavaScript](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 - [ES6](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/es6)
 - [Regular Expressions](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/regular-expressions)
-- [Debugging](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/debugging)
+- [Debugging](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 - [Basic Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
-- [Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-algorithm-scripting)
-- [Object-Oriented Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/object-oriented-programming)
-- [Functional Programming](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/functional-programming)
+- [Algorithm Scripting](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
+- [Object-Oriented Programming](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
+- [Functional Programming](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 - [Intermediate Algorithm Scripting](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/intermediate-algorithm-scripting)
   <br />
   <br />
@@ -77,7 +77,7 @@ Here are our six core certifications:
 
 #### 4. Data Visualization Certification
 
-- [Data Visualization with D3](https://learn.freecodecamp.org/data-visualization/data-visualization-with-d3)
+- [Data Visualization with D3](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 - [JSON APIs and Ajax](https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax)
   <br />
   <br />
@@ -86,7 +86,7 @@ Here are our six core certifications:
 #### 5. APIs and Microservices Certification
 
 - [Managing Packages with Npm](https://learn.freecodecamp.org/apis-and-microservices/managing-packages-with-npm)
-- [Basic Node and Express](https://learn.freecodecamp.org/apis-and-microservices/basic-node-and-express)
+- [Basic Node and Express](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
 - [MongoDB and Mongoose](https://learn.freecodecamp.org/apis-and-microservices/mongodb-and-mongoose)
   <br />
   <br />
@@ -95,8 +95,8 @@ Here are our six core certifications:
 #### 6. Information Security and Quality Assurance Certification
 
 - [Information Security with HelmetJS](https://learn.freecodecamp.org/information-security-and-quality-assurance/information-security-with-helmetjs)
-- [Quality Assurance and Testing with Chai](https://learn.freecodecamp.org/information-security-and-quality-assurance/quality-assurance-and-testing-with-chai)
-- [Advanced Node and Express](https://learn.freecodecamp.org/information-security-and-quality-assurance/advanced-node-and-express)
+- [Quality Assurance and Testing with Chai](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
+- [Advanced Node and Express](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova)
   <br />
   <br />
   **Projects**: Metric-Imperial Converter, Issue Tracker, Personal Library, Stock Price Checker, Anonymous Message Board
@@ -116,16 +116,16 @@ We also have 4 legacy certifications dating back to our 2015 curriculum, which a
 
 ### The Learning Platform
 
-This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
+This code is running live at [freeCodeCamp.org](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova).
 
 Our community also has:
 
-- A [forum](https://forum.freecodecamp.org) where you can usually get programming help or project feedback within hours.
-- A [YouTube channel](https://youtube.com/freecodecamp) with free courses on Python, SQL, Android, and a wide variety of other technologies.
+- A [forum](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) where you can usually get programming help or project feedback within hours.
+- A [YouTube channel](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) with free courses on Python, SQL, Android, and a wide variety of other technologies.
 - A [podcast](https://podcast.freecodecamp.org/) with technology insights and inspiring stories from developers.
-- A [Developer News](https://www.freecodecamp.org/news) publication, a free, open source, no-ads place to cross-post your blog articles.
+- A [Developer News](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova) publication, a free, open source, no-ads place to cross-post your blog articles.
 
-> #### [Join our community here](https://www.freecodecamp.org/signin).
+> #### [Join our community here](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova).
 
 ### Reporting Bugs and Issues
 
@@ -143,11 +143,11 @@ We appreciate any responsible disclosure of vulnerabilities that might impact th
 
 The freeCodeCamp.org community is possible thanks to thousands of kind volunteers like you. We welcome any and all contributions to the community and are excited to welcome you aboard.
 
-> #### [Please follow these steps to contribute](https://contribute.freecodecamp.org).
+> #### [Please follow these steps to contribute](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova).
 
 ### Platform, Build and Deployment Status
 
-The general platform status for all our applications is available at [`status.freecodecamp.org`](https://status.freecodecamp.org). The build and deployment status for the code is available in [our DevOps Guide](/docs/devops.md).
+The general platform status for all our applications is available at [`status.freecodecamp.org`](https://play.google.com/store/apps/details?id=wordseach.puzzlegame.nova). The build and deployment status for the code is available in [our DevOps Guide](/docs/devops.md).
 
 ### License
 
